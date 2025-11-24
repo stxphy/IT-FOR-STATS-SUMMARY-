@@ -1,4 +1,10 @@
-# IT-FOR-STATS-SUMMARY-
+# IT-FOR-STATS-SUMMARY
+NAME: STEPHANIE MAINA
+REG NO: SCM 222-0812/2025
+GROUP A
+GROUP 7 SUMMARY
+
+
 TOPIC 1: INTRODUCTION TO IT AND STATS
 
 IT is the use of computers, networks, softwares and systems to gather store, analyze, model and communicate data. Statistics are raw facts Software, is a set of instructions that tell a computer what to do and how to do it. Information is processed data.
